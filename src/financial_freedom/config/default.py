@@ -6,4 +6,4 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-MY_SECRET = os.environ.get("MY_SECRET")
+MY_SECRET = os.environ.get( "MY_SECRET" )
